@@ -13,7 +13,8 @@ font-family: "Roboto-Light";}
     height: 365px;
     background: linear-gradient(#2d4368, #2d4268, #385066, #415c63, #4b6a61, #537256, #557553, #58784e, #5a7a4b, #5c7c47);
   
-    text-align: center
+    text-align: center;
+	display:table
 }
 
 .underline::after {
